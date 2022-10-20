@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
 Kickstarter trend analysis
-![Parent Category Outcomes](main/Parent_Category_Outcomes.png)
+![Parent Category Outcomes](/assets/images/Parent_Category_Outcomes.png)
