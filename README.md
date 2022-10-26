@@ -7,10 +7,10 @@ After launch, she raised close to her goal in a short time frame. She wants to k
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater Outcomes vs Launch](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes bs Goals](/Outcomes_vs_Goals.png)
+![Outcomes bs Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 I struggled to create a repeatable COUNTIFS formula to calculate the number of plays based on outcome and goal. I wanted a formula that could be copied and pasted to other rows based on the goal ranges. Instead of imbedding the ranges directly in a formula, I split the lower and upper range values into two separate columns, each with a mathematical symbol to note what direction (greater than, less than, etc) the values needed to fall to be considered. This allowed me to be certain that my formula was correct and the ranges were entered correctly.
